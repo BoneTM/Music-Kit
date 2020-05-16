@@ -1,0 +1,18 @@
+﻿"Phrases"
+{
+	"MusicMenuTitle"
+	{
+		"en"		"Music Kit Changer"
+		"chi"		"自定义音乐盒"
+	}
+	"Default"
+	{
+		"en"		"Default Music Kit"
+		"chi"		"默认音乐盒"
+	}
+	"Random"
+	{
+		"en"		"Random Music Kit"
+		"chi"		"随机音乐盒"
+	}
+}
